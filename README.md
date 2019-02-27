@@ -24,7 +24,9 @@ ISIC: https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery
 
 ## References & Third-party Libraries
 Pandas: Dealing with .csv file
+
 Scikit-Image: Basic Image Processing
+
 Keras: ML Structures
 
 ## Challenges
